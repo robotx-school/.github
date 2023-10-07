@@ -1,5 +1,5 @@
 # Hello, world!
-RobotX school github repository. 
+RobotX school github repository. Current project is [Eurobot-2024](https://www.eurobot.org/eurobot-contest/eurobot-2024/)
 
 ## Quick start
 1. [Eurobot 2024](https://github.com/robotx-school/eurobot-2024)
